@@ -13,4 +13,4 @@ Data Source [Kaggle.com](https://www.kaggle.com/datasets/ronnykym/online-store-s
 ### Screenshot
 ![](https://github.com/SaowalakMeethong/Sale-Export-2019-2020/assets/142102520/d85d2e00-d136-45b4-adf1-a447455fb2f8)
 ### Link
-[Sale Export 2019-2020 Visualization](https://public.tableau.com/app/profile/saowalak8887/viz/Salesexport/Saleexport2019-2020)
+[Sale Export 2019-2020](https://public.tableau.com/app/profile/saowalak8887/viz/Salesexport/Saleexport2019-2020)

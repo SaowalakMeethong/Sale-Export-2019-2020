@@ -1,4 +1,4 @@
-# 💰 Sale-Export-2019-2020
+# 💰 Sale Export 2019-2020
 ## 📖 About Data
 The data shows the sales of each type of product from 2019–2020 by choosing to use the sales value of each order and the devices that customers use to place orders. Countries with the highest sales and sales by quarter.
 
